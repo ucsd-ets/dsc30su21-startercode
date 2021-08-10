@@ -1,4 +1,4 @@
-import java.util.EmptyStackException;
+import java.util.NoSuchElementException;
 
 /**
  * Queue implementation using Doubly-linked list.

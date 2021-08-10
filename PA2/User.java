@@ -34,7 +34,7 @@ public abstract class User {
         /* TODO */
     }
 
-    public void sendMessage(MessageExchange me, MessageType msgType, String contents, int lines) {
+    public void sendMessage(MessageExchange me, String contents, int lines) {
         /* TODO */
     }
 
