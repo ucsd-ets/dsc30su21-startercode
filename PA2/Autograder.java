@@ -50,7 +50,7 @@ public class Autograder implements MessageExchange {
         return false;
     }
 
-    public String resolveAllProblems(User requester) {
+    public String resolveAllProblems(User requester) throws OperationDeniedException {
         /* TODO */
         return null;
     }
